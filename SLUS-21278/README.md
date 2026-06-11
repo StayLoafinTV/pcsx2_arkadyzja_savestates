@@ -1,0 +1,20 @@
+**Game name:**
+
+SSX on Tour (USA)
+
+**Game ID:**
+
+SLUS-21278
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A0073C8B8459A0C6C204CB62674B8603DAF74123
+
+TRACK 01 MD5: 131D8B3DFA8A1A5BF842B58840FED0AC
+
+**Description:**
+
