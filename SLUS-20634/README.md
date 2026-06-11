@@ -1,0 +1,20 @@
+**Game name:**
+
+Summer Heat Beach Volleyball (USA)
+
+**Game ID:**
+
+SLUS-20634
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0E56CC4A62089477546E0CF84EC62626EFBEB0FA
+
+TRACK 01 MD5: 110EC9A77DC369BF098D1DCE95AD407C
+
+**Description:**
+
