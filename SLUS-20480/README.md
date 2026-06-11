@@ -1,0 +1,20 @@
+**Game name:**
+
+Sega Sports Tennis (USA)
+
+**Game ID:**
+
+SLUS-20480
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7A2ADFA4445E4C4F38FDBDF188DCFDD4BBBEF5A1
+
+TRACK 01 MD5: C434895569CFE4BD9A191146590B4F34
+
+**Description:**
+
