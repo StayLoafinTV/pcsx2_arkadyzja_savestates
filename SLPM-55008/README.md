@@ -1,0 +1,20 @@
+**Game name:**
+
+Sengoku Basara X (Japan, Korea)
+
+**Game ID:**
+
+SLPM-55008
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E8D7A72DE1171560982FCA613514A702166BB0C9
+
+TRACK 01 MD5: CDAB16610F18DB52DD1962787042B869
+
+**Description:**
+
