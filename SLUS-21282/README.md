@@ -1,0 +1,20 @@
+**Game name:**
+
+007 - From Russia with Love (USA)
+
+**Game ID:**
+
+SLUS-21282
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0AF98B71FD7294177FBB2F73DB4A334AA0D96FFF
+
+TRACK 01 MD5: F2F0A89F040635AF46F99182231DDFD9
+
+**Description:**
+
