@@ -1,0 +1,20 @@
+**Game name:**
+
+007 - Nightfire (USA)
+
+**Game ID:**
+
+SLUS-20579
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: EA08A84649EEF9868D7B57477762AFAF1EC5C304
+
+TRACK 01 MD5: 008302D82A305E9AD04E349F1F6982EE
+
+**Description:**
+
