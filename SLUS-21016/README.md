@@ -1,0 +1,20 @@
+**Game name:**
+
+25 to Life (USA)
+
+**Game ID:**
+
+SLUS-21016
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6715C6648DB69D41A71C266CEB6D79308E931650
+
+TRACK 01 MD5: 459AE82EBAF56FB279427B1D48E52073
+
+**Description:**
+
