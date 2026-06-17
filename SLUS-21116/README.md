@@ -1,0 +1,20 @@
+**Game name:**
+
+187 - Ride or Die (USA) (En,Fr,Es)
+
+**Game ID:**
+
+SLUS-21116
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8832293D866CF4494A2F94DB2D6B03CD64387B31
+
+TRACK 01 MD5: DFA4E0E69757DBB28EFF6D70933E4E82
+
+**Description:**
+
