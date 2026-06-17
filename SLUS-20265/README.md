@@ -1,0 +1,20 @@
+**Game name:**
+
+007 - Agent Under Fire (USA)
+
+**Game ID:**
+
+SLUS-20265
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B7B70235ACA3947E6F83C52D62179535B1F4EF9B
+
+TRACK 01 MD5: A94727213CF77A66BEF7B6598E54B876
+
+**Description:**
+
