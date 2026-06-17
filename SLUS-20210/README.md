@@ -1,0 +1,20 @@
+**Game name:**
+
+18 Wheeler - American Pro Trucker (USA)
+
+**Game ID:**
+
+SLUS-20210
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F8BB85DEB57F4963BB051CFB5EBCCA54A17202BB
+
+TRACK 01 MD5: EEA1E51B15B8CE43AF264DEC8CA19F36
+
+**Description:**
+
