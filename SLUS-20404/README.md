@@ -1,0 +1,20 @@
+**Game name:**
+
+2002 FIFA World Cup (USA) (En,Es)
+
+**Game ID:**
+
+SLUS-20404
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0DBAA4D4BE179297028F6FB810E860CBBBC4FC87
+
+TRACK 01 MD5: C331045E92C20E2A865525A8E22D92B6
+
+**Description:**
+
