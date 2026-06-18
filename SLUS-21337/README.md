@@ -1,0 +1,20 @@
+**Game name:**
+
+Arena Football (USA)
+
+**Game ID:**
+
+SLUS-21337
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D3D703973681FB4A7173AE4F40C38975A274C1DE
+
+TRACK 01 MD5: 7C75E1BB46FA80AB8BC2FED5867AF326
+
+**Description:**
+
