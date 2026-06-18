@@ -1,0 +1,20 @@
+**Game name:**
+
+Alfa Romeo Racing Italiano (USA)
+
+**Game ID:**
+
+SLUS-21321
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8867C4A0B3BA576F0554D9246D4E6FDE770DD789
+
+TRACK 01 MD5: 9E834466448A3858B79D943C29E56C8D
+
+**Description:**
+
