@@ -1,0 +1,20 @@
+**Game name:**
+
+Ace Combat 04 - Shattered Skies (USA)
+
+**Game ID:**
+
+SLUS-20152
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DF52930823A00C32D4F918961769174C9978C140
+
+TRACK 01 MD5: 8C7CBADB78B2EEBEABBF546E0C1D0372
+
+**Description:**
+
