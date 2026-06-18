@@ -1,0 +1,20 @@
+**Game name:**
+
+Army Men - Air Attack 2 (USA)
+
+**Game ID:**
+
+SLUS-20004
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B8666263BC7DD57EF98DFA9AE716FC3C18783FC0
+
+TRACK 01 MD5: A261F6016B2F7293B7B354E9D5840EF0
+
+**Description:**
+
