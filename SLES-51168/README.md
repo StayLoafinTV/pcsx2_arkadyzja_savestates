@@ -1,0 +1,20 @@
+**Game name:**
+
+AFL Live 2003 (Australia)
+
+**Game ID:**
+
+SLES-51168
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7CE54A11DDF37EDF5083A1CE7BC62E3827E8D0A3
+
+TRACK 01 MD5: 4B086FF1184C02FB1AEF72F878614F2B
+
+**Description:**
+
