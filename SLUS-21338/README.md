@@ -1,0 +1,20 @@
+**Game name:**
+
+Armored Core - Last Raven (USA)
+
+**Game ID:**
+
+SLUS-21338
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: FA979D01C2318DF98013CB48D0CB83CC3DC5539E
+
+TRACK 01 MD5: 58C5D7F070248F25C85A2A60FFE53B18
+
+**Description:**
+
