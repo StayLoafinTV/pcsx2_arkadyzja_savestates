@@ -1,0 +1,20 @@
+**Game name:**
+
+Armored Core 2 - Another Age (USA)
+
+**Game ID:**
+
+SLUS-20249
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 362B7D9DB077752470F56DC49982046BCFAB4373
+
+TRACK 01 MD5: A68203CE7A164CB26CAA71FAF4427B26
+
+**Description:**
+
