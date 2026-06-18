@@ -1,0 +1,20 @@
+**Game name:**
+
+Army Men - Green Rogue (USA)
+
+**Game ID:**
+
+SLUS-20087
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3A2229237766BACE904A4253EF646CC34BCF85C3
+
+TRACK 01 MD5: 8BD23912FA023C0918DF4D6B38518AF1
+
+**Description:**
+
