@@ -1,0 +1,20 @@
+**Game name:**
+
+Armored Core 2 (USA)
+
+**Game ID:**
+
+SLUS-20014
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 13048F8816ADBB78376C35212DCB4B86B931A26B
+
+TRACK 01 MD5: E5EE46238EEA5CB7DAFEA722B19AF077
+
+**Description:**
+
