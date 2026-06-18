@@ -1,0 +1,20 @@
+**Game name:**
+
+Auto Modellista (USA)
+
+**Game ID:**
+
+SLUS-20642
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D4A2AFC4A29B5FDF086D30186D323AD60BD97FF2
+
+TRACK 01 MD5: 8D68ED9D5D205F48F6D1F714B8A11C7A
+
+**Description:**
+
