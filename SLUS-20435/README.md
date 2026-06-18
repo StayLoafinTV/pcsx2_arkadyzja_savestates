@@ -1,0 +1,20 @@
+**Game name:**
+
+Armored Core 3 (USA)
+
+**Game ID:**
+
+SLUS-20435
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B41CA3C631FEE90C65672B6C35D67D86242AC02E
+
+TRACK 01 MD5: 1258C8E17F58A80F1E01B0391AE97ABE
+
+**Description:**
+
