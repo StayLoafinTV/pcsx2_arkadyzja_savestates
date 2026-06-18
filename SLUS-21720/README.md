@@ -1,0 +1,20 @@
+**Game name:**
+
+Arcana Heart (USA)
+
+**Game ID:**
+
+SLUS-21720
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3DA3A5DD8D074060B3634542B587CF0A6956150D
+
+TRACK 01 MD5: 1D0E0FA5C865CC16841451A559428310
+
+**Description:**
+
