@@ -1,0 +1,20 @@
+**Game name:**
+
+Action Girlz Racing (Europe)
+
+**Game ID:**
+
+SLES-52956
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 63D9505C3034F17FA8A4BFDB818F3F72D1C496C7
+
+TRACK 01 MD5: 79039E638F4F8516048D810FD3549C88
+
+**Description:**
+
