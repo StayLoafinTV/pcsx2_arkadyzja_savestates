@@ -1,0 +1,20 @@
+**Game name:**
+
+Aqua Aqua (USA)
+
+**Game ID:**
+
+SLUS-20162
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: CABB7F4B23A8D393BAFF5586E4A47AB27A271036
+
+TRACK 01 MD5: 9BFE9FBF9A2672C0E5C5C2BEE835840D
+
+**Description:**
+
