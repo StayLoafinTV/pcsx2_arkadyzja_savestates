@@ -1,0 +1,20 @@
+**Game name:**
+
+Antz Extreme Racing (USA)
+
+**Game ID:**
+
+SLUS-20392
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0D380AA5016FF27ED48B995381972F51CA9FEF03
+
+TRACK 01 MD5: 5D994A28B60173C3137379CFAB05E035
+
+**Description:**
+
