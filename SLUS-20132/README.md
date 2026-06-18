@@ -1,0 +1,20 @@
+**Game name:**
+
+Army Men - Sarge's Heroes 2 (USA)
+
+**Game ID:**
+
+SLUS-20132
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: AB1C765E9969B2ECAB6DA106D05404B2A1174C20
+
+TRACK 01 MD5: FADA44E03EB23BF6CEEB83F0D40916A7
+
+**Description:**
+
