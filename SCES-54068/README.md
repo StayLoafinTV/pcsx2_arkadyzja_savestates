@@ -1,0 +1,20 @@
+**Game name:**
+
+AFL Premiership 2006 (Australia)
+
+**Game ID:**
+
+SCES-54068
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 274FECE3313EDB64631CEA430A46224B71D53EA1
+
+TRACK 01 MD5: 8DC5013B14EAD4C3E9ABE9FE77418C94
+
+**Description:**
+
