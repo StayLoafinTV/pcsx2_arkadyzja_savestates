@@ -1,0 +1,20 @@
+**Game name:**
+
+All-Star Baseball 2002 (USA)
+
+**Game ID:**
+
+SLUS-20008
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 14B20E6B7512924C0DB9D774380B55A12B766923
+
+TRACK 01 MD5: 16AD14783AE6EECD8B39CAADE6B9F0BB
+
+**Description:**
+
