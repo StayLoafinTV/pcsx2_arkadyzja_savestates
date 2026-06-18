@@ -1,0 +1,20 @@
+**Game name:**
+
+Art of Fighting Anthology (USA)
+
+**Game ID:**
+
+SLUS-21487
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F77376D86A4A06C608740E975C1B4F7F19118405
+
+TRACK 01 MD5: DC17D9030CA9BE50DED58B06C0C6866E
+
+**Description:**
+
