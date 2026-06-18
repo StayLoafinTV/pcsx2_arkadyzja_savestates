@@ -1,0 +1,20 @@
+**Game name:**
+
+Arc the Lad - End of Darkness (USA)
+
+**Game ID:**
+
+SLUS-21165
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1906EB3839B193537ACF5E45A90D8171DEF1087A
+
+TRACK 01 MD5: 7355F7CF093CA25AFABC6717035A2371
+
+**Description:**
+
