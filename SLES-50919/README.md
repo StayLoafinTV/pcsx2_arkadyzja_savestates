@@ -1,0 +1,20 @@
+**Game name:**
+
+Akira Psycho Ball (Europe)
+
+**Game ID:**
+
+SLES-50919
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E34CF41E6874B4EFDA354E943F7744694F2C69F4
+
+TRACK 01 MD5: 8AD112FF01628A7BD38B15F73E8A1C75
+
+**Description:**
+
