@@ -1,0 +1,20 @@
+**Game name:**
+
+Arcade Action - 30 Games (Europe)
+
+**Game ID:**
+
+SLES-52949
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 28D61B2C7CA222D4322E6C0012FFD3DDE11B6C19
+
+TRACK 01 MD5: 69FBD085FEC2AB00D694E8FA1D84032B
+
+**Description:**
+
