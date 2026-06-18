@@ -1,0 +1,20 @@
+**Game name:**
+
+AFL Premiership 2007 (Australia)
+
+**Game ID:**
+
+SCES-54639
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 23DE1F558E716AEBEB341B0E588E5C8C914740B9
+
+TRACK 01 MD5: A47B39D23CD172FDD3D04A957A74A544
+
+**Description:**
+
