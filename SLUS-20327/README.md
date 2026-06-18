@@ -1,0 +1,20 @@
+**Game name:**
+
+Aggressive Inline (USA)
+
+**Game ID:**
+
+SLUS-20327
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C80FDABB031FB600C4F2222D30F50037782C7C55
+
+TRACK 01 MD5: C1E418325DDF3C2EBE2F63DA24F80CF0
+
+**Description:**
+
