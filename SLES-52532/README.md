@@ -1,0 +1,20 @@
+**Game name:**
+
+Aces of War (Europe)
+
+**Game ID:**
+
+SLES-52532
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 11566536BCA23732F8FD1F6B8C1A1B1E76167A60
+
+TRACK 01 MD5: E8EA20383B32D42D8F73DB5D0A08D618
+
+**Description:**
+
