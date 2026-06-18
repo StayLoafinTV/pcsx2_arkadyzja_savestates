@@ -1,0 +1,20 @@
+**Game name:**
+
+Activision Anthology (USA)
+
+**Game ID:**
+
+SLUS-20588
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1B6EBEDF2DF3C635205D60097AFEEA8F94BCB3CB
+
+TRACK 01 MD5: 5C3AA8A16BA30CD15F5CE405B6513025
+
+**Description:**
+
