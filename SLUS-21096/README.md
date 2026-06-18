@@ -1,0 +1,20 @@
+**Game name:**
+
+Ape Escape - Pumped & Primed (USA)
+
+**Game ID:**
+
+SLUS-21096
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DF8253C19919F6DE551163E4E17B383DB3D18D4E
+
+TRACK 01 MD5: 461EAC0BAAACCF2D80767AAD27D97ED0
+
+**Description:**
+
