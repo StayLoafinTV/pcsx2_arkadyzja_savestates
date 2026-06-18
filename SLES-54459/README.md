@@ -1,0 +1,20 @@
+**Game name:**
+
+All-Star Fighters (Europe)
+
+**Game ID:**
+
+SLES-54459
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 70985D718BDB056750FC29D935F2CDD19FAD394D
+
+TRACK 01 MD5: C707470FC67CB8363EA5C1EFE75DDA07
+
+**Description:**
+
