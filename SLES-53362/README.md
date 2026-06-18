@@ -1,0 +1,20 @@
+**Game name:**
+
+Alpine Skiing 2005 (Europe)
+
+**Game ID:**
+
+SLES-53362
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F8FAE54966199E852858FD6B20F360F31D0E668A
+
+TRACK 01 MD5: EEC0E142CD829EFC13ECCD4387999088
+
+**Description:**
+
