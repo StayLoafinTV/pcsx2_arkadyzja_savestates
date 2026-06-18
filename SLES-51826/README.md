@@ -1,0 +1,20 @@
+**Game name:**
+
+AFL Live 2004 (Australia) (v2.01)
+
+**Game ID:**
+
+SLES-51826
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D8308418D3FD916C8CF1CF0C86A353B8C4B53498
+
+TRACK 01 MD5: B7F25B00CAB37F2B4CECA6B5F8C59AB7
+
+**Description:**
+
