@@ -1,0 +1,20 @@
+**Game name:**
+
+Armored Core - Nine Breaker (USA)
+
+**Game ID:**
+
+SLUS-21200
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C6FD8BC1FE8753DAD374F0F0A3596C8698868CCB
+
+TRACK 01 MD5: C4CF13647CBEFA9A5B639CD299E96624
+
+**Description:**
+
