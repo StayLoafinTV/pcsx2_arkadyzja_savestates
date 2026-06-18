@@ -1,0 +1,20 @@
+**Game name:**
+
+Arcade USA (Europe, Australia)
+
+**Game ID:**
+
+SLES-53446
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: FC3F903BF3C8C39569A6138557A57715F5F23981
+
+TRACK 01 MD5: 6EFB2308CDAC2176B3AA23E7E42F1255
+
+**Description:**
+
