@@ -1,0 +1,20 @@
+**Game name:**
+
+Alvin and the Chipmunks (USA)
+
+**Game ID:**
+
+SLUS-21706
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 605CA6586533284D7828B95DD5282C6183AD8CB7
+
+TRACK 01 MD5: 09332D50A9F0F148B35E83ED2DC6CBE7
+
+**Description:**
+
