@@ -1,0 +1,20 @@
+**Game name:**
+
+ATV - Quad Power Racing 2 (USA)
+
+**Game ID:**
+
+SLUS-20570
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DB6742EE652846EC8476251B56E301096DE065AF
+
+TRACK 01 MD5: 6AEAF8E2A7491F4B8D0B13F4491FDC18
+
+**Description:**
+
