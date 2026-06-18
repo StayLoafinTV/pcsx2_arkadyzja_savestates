@@ -1,0 +1,20 @@
+**Game name:**
+
+Aero Elite - Combat Academy (USA)
+
+**Game ID:**
+
+SLUS-20614
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 33BDCC395D30EA9DC7A46CFBD6F75DE5793D09AC
+
+TRACK 01 MD5: AE78670AC48E58B7182A5D2E762CD5F5
+
+**Description:**
+
