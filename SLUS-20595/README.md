@@ -1,0 +1,20 @@
+**Game name:**
+
+Area 51 (USA)
+
+**Game ID:**
+
+SLUS-20595
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 32C5E933AE4F1BFBCB5A0C3B379AC375D5E39F9E
+
+TRACK 01 MD5: AA64CD6847109C333E1FA8C880812654
+
+**Description:**
+
