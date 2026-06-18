@@ -1,0 +1,20 @@
+**Game name:**
+
+ATV Offroad Fury 3 (USA)
+
+**Game ID:**
+
+SCUS-97405
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 35864A404C64EF85A88B7026DB468189EBFFE7FD
+
+TRACK 01 MD5: 2A24992030F06FCABCDE036A6A2193EE
+
+**Description:**
+
