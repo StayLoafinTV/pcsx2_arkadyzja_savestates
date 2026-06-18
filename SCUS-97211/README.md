@@ -1,0 +1,20 @@
+**Game name:**
+
+ATV Offroad Fury 2 (USA) (v2.00)
+
+**Game ID:**
+
+SCUS-97211
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 32A170B8B6A9D2A421B2829A47A1E0C2275B0C67
+
+TRACK 01 MD5: AE99BB7DAFF6AD94CBD4E58ED2566C9A
+
+**Description:**
+
