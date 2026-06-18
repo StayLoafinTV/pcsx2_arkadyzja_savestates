@@ -1,0 +1,20 @@
+**Game name:**
+
+AFL Premiership 2005 (Australia)
+
+**Game ID:**
+
+SCES-53449
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C6D08727B3FD47A64BB67BD8AFCD890060007CDF
+
+TRACK 01 MD5: 88852B30F9FA535A89FEC2F48E04211F
+
+**Description:**
+
