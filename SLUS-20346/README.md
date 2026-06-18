@@ -1,0 +1,20 @@
+**Game name:**
+
+AirBlade (USA)
+
+**Game ID:**
+
+SLUS-20346
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0AA133ED0DF47D1D1B3DDD691FE891DD217B55F4
+
+TRACK 01 MD5: 4A5EB714BE760CBB6E1B6D2D4C71C3C8
+
+**Description:**
+
