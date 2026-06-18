@@ -1,0 +1,20 @@
+**Game name:**
+
+ATV Offroad Fury 4 (USA)
+
+**Game ID:**
+
+SCUS-97479
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: FC340D9F040BF421071BF926D09016DB149A6C31
+
+TRACK 01 MD5: BBC38EB9D5D702624993ADD72FE479B6
+
+**Description:**
+
