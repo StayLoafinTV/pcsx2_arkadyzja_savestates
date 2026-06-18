@@ -1,0 +1,20 @@
+**Game name:**
+
+Athens 2004 (USA)
+
+**Game ID:**
+
+SCUS-97379
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A33C4B1948891E89150BC3CD4755123FA850F92F
+
+TRACK 01 MD5: 100E51973285B45214B7016249D72EB8
+
+**Description:**
+
