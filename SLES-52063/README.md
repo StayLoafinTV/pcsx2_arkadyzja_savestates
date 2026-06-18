@@ -1,0 +1,20 @@
+**Game name:**
+
+Alarm for Cobra 11 (Europe) (En,De)
+
+**Game ID:**
+
+SLES-52063
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 23714EDCF4C6B453E540E46B093C2945BB65518E
+
+TRACK 01 MD5: EC3A22C0901010989ECBEDA05910B2D2
+
+**Description:**
+
