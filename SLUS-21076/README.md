@@ -1,0 +1,20 @@
+**Game name:**
+
+Atari Anthology (USA)
+
+**Game ID:**
+
+SLUS-21076
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 109B207BF2464BABD6A1B805A5580886CCFF37F1
+
+TRACK 01 MD5: 0DD73A3315F23BA14346C053F583A1EA
+
+**Description:**
+
