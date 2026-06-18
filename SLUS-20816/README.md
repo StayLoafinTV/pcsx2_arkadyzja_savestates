@@ -1,0 +1,20 @@
+**Game name:**
+
+American Idol (USA)
+
+**Game ID:**
+
+SLUS-20816
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E804778917F0699113E2938003ECB0CA15020811
+
+TRACK 01 MD5: 99C51A9B40BD4B637BF9962A42E411E6
+
+**Description:**
+
