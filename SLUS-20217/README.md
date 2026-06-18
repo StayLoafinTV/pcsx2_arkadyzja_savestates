@@ -1,0 +1,20 @@
+**Game name:**
+
+Arctic Thunder (USA)
+
+**Game ID:**
+
+SLUS-20217
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B304FDB6CF8E111F21907502FB41ED2A71914B9C
+
+TRACK 01 MD5: 784668D5E71E9C1B8F11BA3B3D97EF07
+
+**Description:**
+
