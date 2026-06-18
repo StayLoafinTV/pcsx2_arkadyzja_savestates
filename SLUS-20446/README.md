@@ -1,0 +1,20 @@
+**Game name:**
+
+Agassi Tennis Generation (USA)
+
+**Game ID:**
+
+SLUS-20446
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 75DA3BF3A82A02B9B241BBEB377F969520719691
+
+TRACK 01 MD5: DFE871D69367094F37F49C86E84BCC12
+
+**Description:**
+
