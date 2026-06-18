@@ -1,0 +1,20 @@
+**Game name:**
+
+Alpine Racer 3 (Europe) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SCES-50887
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 05C353D5D6A542152A3FC54D85BD072C81197AF5
+
+TRACK 01 MD5: B569565CF28EE369D6D57EA53809FB76
+
+**Description:**
+
