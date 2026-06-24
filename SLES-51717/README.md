@@ -1,0 +1,20 @@
+**Game name:**
+
+Boxing Champions (Europe)
+
+**Game ID:**
+
+SLES-51717
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 066F6B2921DA25F8FB733DE93655A92242D82D83
+
+TRACK 01 MD5: A606FC8E5393E709A5ADE977CC43E367
+
+**Description:**
+
