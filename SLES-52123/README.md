@@ -1,0 +1,20 @@
+**Game name:**
+
+Cricket 2004 (Europe) (v2.00)
+
+**Game ID:**
+
+SLES-52123
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C7D20E21540A8E6C9B7CAA2872FF7A89E4E0BA7A
+
+TRACK 01 MD5: 4B3835F701AAD83BCE7E34355E8D2BE4
+
+**Description:**
+
