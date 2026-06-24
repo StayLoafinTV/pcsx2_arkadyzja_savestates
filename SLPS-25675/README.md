@@ -1,0 +1,20 @@
+**Game name:**
+
+Battle Stadium D.O.N (Japan)
+
+**Game ID:**
+
+SLPS-25675
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 75C98F9B2EF3EF68C5E8E788A67AA92CED241610
+
+TRACK 01 MD5: 3995D2A9C257C5D35046532B88726321
+
+**Description:**
+
