@@ -1,0 +1,20 @@
+**Game name:**
+
+Bloody Roar 4 (Japan)
+
+**Game ID:**
+
+SLPM-65499
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1646F096EA9C5871E3B2E30F1C5908FA8FA159F3
+
+TRACK 01 MD5: 1450D9D57E49CFE12EDB12DB42F6FE6E
+
+**Description:**
+
