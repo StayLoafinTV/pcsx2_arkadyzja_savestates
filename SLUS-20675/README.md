@@ -1,0 +1,20 @@
+**Game name:**
+
+Baldur's Gate - Dark Alliance II (USA)
+
+**Game ID:**
+
+SLUS-20675
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D3D30F103D8233CEA7003C2E75FC488D98F81364
+
+TRACK 01 MD5: 65485379F996E33085EB1389ACD7DD11
+
+**Description:**
+
