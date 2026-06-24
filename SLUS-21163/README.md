@@ -1,0 +1,20 @@
+**Game name:**
+
+Brothers in Arms - Road to Hill 30 (USA)
+
+**Game ID:**
+
+SLUS-21163
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8CBF2E57317C2661478AE9599F772B6D84908435
+
+TRACK 01 MD5: 74B1A0D2226F2B0CCCEC945AC4A9A9B2
+
+**Description:**
+
