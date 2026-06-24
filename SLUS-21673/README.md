@@ -1,0 +1,20 @@
+**Game name:**
+
+College Hoops 2K8 (USA)
+
+**Game ID:**
+
+SLUS-21673
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 562CDF70CEA17699EF1D4549B5B73C096E5A1E9A
+
+TRACK 01 MD5: 4FF76123CB55115805389E5462E00EC0
+
+**Description:**
+
