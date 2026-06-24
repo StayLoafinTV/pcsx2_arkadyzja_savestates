@@ -1,0 +1,20 @@
+**Game name:**
+
+Bigs, The (USA)
+
+**Game ID:**
+
+SLUS-21623
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 26BF8D37A667854BC964FF09616BBFB18BBA94A6
+
+TRACK 01 MD5: 3F3B8FD1A31D6FF0514B66F71E64D352
+
+**Description:**
+
