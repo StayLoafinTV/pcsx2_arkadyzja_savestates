@@ -1,0 +1,20 @@
+**Game name:**
+
+Beta Bloc (Europe)
+
+**Game ID:**
+
+SLES-54789
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B377909F850F1113A344E456E71133968A1CA601
+
+TRACK 01 MD5: 047C1F85F1A1A882C5EA0EAEC275D3F5
+
+**Description:**
+
