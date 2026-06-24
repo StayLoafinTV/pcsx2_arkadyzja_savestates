@@ -1,0 +1,20 @@
+**Game name:**
+
+Colin McRae Rally 04 (Europe) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLES-51824
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 40974D36EE605B45BC2A281D0F876EEE235E4408
+
+TRACK 01 MD5: 5FF7095B81B9FA6026EDC5A0455CE7A4
+
+**Description:**
+
