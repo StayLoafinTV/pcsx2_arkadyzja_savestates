@@ -1,0 +1,20 @@
+**Game name:**
+
+Basketball Xciting (Europe)
+
+**Game ID:**
+
+SLES-51850
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 74837822734B08FC3EEB464FBFBAB95B1E271E57
+
+TRACK 01 MD5: E58316AFFF0B46611301F91824AADD62
+
+**Description:**
+
