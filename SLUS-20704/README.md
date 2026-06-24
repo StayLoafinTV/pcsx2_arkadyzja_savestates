@@ -1,0 +1,20 @@
+**Game name:**
+
+Backyard Basketball (USA)
+
+**Game ID:**
+
+SLUS-20704
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 149C2FF9FBE3DAEE18DC4CCAA2DC3666B1B668D5
+
+TRACK 01 MD5: DB743E3ACCE65CB81E23BBECF1DC51F8
+
+**Description:**
+
