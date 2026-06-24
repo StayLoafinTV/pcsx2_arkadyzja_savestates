@@ -1,0 +1,20 @@
+**Game name:**
+
+Culdcept (USA)
+
+**Game ID:**
+
+SLUS-20774
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5D1F5995D30D33455E825ACAD1489C04CCBAE07B
+
+TRACK 01 MD5: 1A2A286F6033F3AA5E1188CBB76A0C87
+
+**Description:**
+
