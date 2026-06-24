@@ -1,0 +1,20 @@
+**Game name:**
+
+Bratz - Forever Diamondz (USA)
+
+**Game ID:**
+
+SLUS-21470
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 498016636C034368941CD47DDC0B843292603AF1
+
+TRACK 01 MD5: 3C0B81B71EA921CBF2FD82B37C6E21AA
+
+**Description:**
+
