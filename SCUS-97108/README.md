@@ -1,0 +1,20 @@
+**Game name:**
+
+Cool Boarders 2001 (USA)
+
+**Game ID:**
+
+SCUS-97108
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9ADBE341B7E95524953778966BDA6B7A5BF33FEC
+
+TRACK 01 MD5: 5F5528FFCCDC64DFFBA7A591E5C3E49C
+
+**Description:**
+
