@@ -1,0 +1,20 @@
+**Game name:**
+
+Conan (Europe) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLES-52451
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 594EA6B5AA68EDFD4E9DD4FAE72DBEEB21AA0ADC
+
+TRACK 01 MD5: 08D8C936F2027BF25E585EA8865EF3A3
+
+**Description:**
+
