@@ -1,0 +1,20 @@
+**Game name:**
+
+Ben 10 - Protector of Earth (USA)
+
+**Game ID:**
+
+SLUS-21661
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 120DD2E523F5C0EF4234B10DAFB939C44E30AF4F
+
+TRACK 01 MD5: EF10A0B21A33BB51808E7328536DFD08
+
+**Description:**
+
