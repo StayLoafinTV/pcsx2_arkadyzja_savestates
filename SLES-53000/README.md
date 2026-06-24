@@ -1,0 +1,20 @@
+**Game name:**
+
+Crazy Golf (Europe, Australia)
+
+**Game ID:**
+
+SLES-53000
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E8F27D49A93157CC7AF2E5C95EB089AD1B9778A0
+
+TRACK 01 MD5: B96099E052E3CA7AF5BA254C0A6CB81C
+
+**Description:**
+
