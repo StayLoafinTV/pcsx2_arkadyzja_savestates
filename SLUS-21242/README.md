@@ -1,0 +1,20 @@
+**Game name:**
+
+Burnout Revenge (USA)
+
+**Game ID:**
+
+SLUS-21242
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D369FAC584096BD18F3915364DD4BC264B47FC5A
+
+TRACK 01 MD5: 9EF21DB5EB663E30FEE600E29407B97E
+
+**Description:**
+
