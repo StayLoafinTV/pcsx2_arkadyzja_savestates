@@ -1,0 +1,20 @@
+**Game name:**
+
+Cricket 07 (Europe, Australia)
+
+**Game ID:**
+
+SLES-54396
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1DF3B64A7D450E406897B4D73848BA3094B3FA8E
+
+TRACK 01 MD5: 84F7A20CA63DDDE4192D690658E67160
+
+**Description:**
+
