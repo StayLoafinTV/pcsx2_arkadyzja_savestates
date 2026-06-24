@@ -1,0 +1,20 @@
+**Game name:**
+
+Britney's Dance Beat (USA)
+
+**Game ID:**
+
+SLUS-20402
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9FD02ED2370527DA56971EEE062166A6022EBE18
+
+TRACK 01 MD5: C18A1D24A89C55DB5036F34ECC6B3A00
+
+**Description:**
+
