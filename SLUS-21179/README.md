@@ -1,0 +1,20 @@
+**Game name:**
+
+Colosseum - Road to Freedom (USA)
+
+**Game ID:**
+
+SLUS-21179
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1A44D77B726B348A74AF1B1BCD7F59BB9E6935BE
+
+TRACK 01 MD5: 1D4577E64E2DC1CB3EFF77C15AE314C5
+
+**Description:**
+
