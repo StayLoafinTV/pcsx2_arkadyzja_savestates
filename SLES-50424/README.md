@@ -1,0 +1,20 @@
+**Game name:**
+
+Cricket 2002 (Europe) (v2.00)
+
+**Game ID:**
+
+SLES-50424
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B9AD3BDD031FAE13D48367CE198890B94C93A9F7
+
+TRACK 01 MD5: D84A28AAD15402BBA204A8D6A50F0900
+
+**Description:**
+
