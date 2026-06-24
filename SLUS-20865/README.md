@@ -1,0 +1,20 @@
+**Game name:**
+
+Backyard Baseball (USA)
+
+**Game ID:**
+
+SLUS-20865
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 53F8E3150589DE2D1EF8C764587BAECDE30A29C8
+
+TRACK 01 MD5: 080036BA52D1125330F04138960B0935
+
+**Description:**
+
