@@ -1,0 +1,20 @@
+**Game name:**
+
+Crazy Frog Arcade Racer (USA) (En,Fr,Es)
+
+**Game ID:**
+
+SLUS-21634
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 04088EEB66F861AB8665951DF313EADDF6396571
+
+TRACK 01 MD5: 90817CD5FF7D11BAC7CE21449A4107EF
+
+**Description:**
+
