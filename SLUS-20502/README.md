@@ -1,0 +1,20 @@
+**Game name:**
+
+Colin McRae Rally 3 (USA)
+
+**Game ID:**
+
+SLUS-20502
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DEEC09860D02B1E99F3362C23993272AC5673509
+
+TRACK 01 MD5: AFB4EEDBA70C86DF31EBABC057F84ECB
+
+**Description:**
+
