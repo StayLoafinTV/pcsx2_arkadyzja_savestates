@@ -1,0 +1,20 @@
+**Game name:**
+
+Cricket 2005 (Europe)
+
+**Game ID:**
+
+SLES-53342
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6DB3AAD42AFB41778118577C23FD06043C60241E
+
+TRACK 01 MD5: 7DDEBE07D0A4DFA8B25935191BF02244
+
+**Description:**
+
