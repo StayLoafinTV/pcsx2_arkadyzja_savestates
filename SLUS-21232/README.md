@@ -1,0 +1,20 @@
+**Game name:**
+
+College Hoops 2K6 (USA)
+
+**Game ID:**
+
+SLUS-21232
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C32705D0F84FAD991A57D39895E3715F623FD652
+
+TRACK 01 MD5: BF2DB281F5DE83381A9787FB5D284415
+
+**Description:**
+
