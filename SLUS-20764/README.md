@@ -1,0 +1,20 @@
+**Game name:**
+
+Bombastic (USA)
+
+**Game ID:**
+
+SLUS-20764
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7F963A94BBDF975FAD7A164023A952CC5B8ECACC
+
+TRACK 01 MD5: 1F30C8C92448635FAF3D90D43D2D263C
+
+**Description:**
+
