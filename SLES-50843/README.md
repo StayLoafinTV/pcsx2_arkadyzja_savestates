@@ -1,0 +1,20 @@
+**Game name:**
+
+Crashed (Europe) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLES-50843
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 21A37A7B91832CA2963638F5C4C40F7528933621
+
+TRACK 01 MD5: C25757C4FA8015700EA3BA28FFDC180F
+
+**Description:**
+
