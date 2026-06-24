@@ -1,0 +1,20 @@
+**Game name:**
+
+Bratz - The Movie (USA)
+
+**Game ID:**
+
+SLUS-21643
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9DF14FE85431087650BBED72112BF5FC7BFACAAD
+
+TRACK 01 MD5: 511497CD95B5FB437E9955C588C1AF6E
+
+**Description:**
+
