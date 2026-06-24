@@ -1,0 +1,20 @@
+**Game name:**
+
+Bust-A-Bloc (Europe)
+
+**Game ID:**
+
+SLES-51713
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A117B9F846ADB1859948FB8A1D02A92D5E9C94F7
+
+TRACK 01 MD5: 960A2A60E512D19591E7627D2D00E2F1
+
+**Description:**
+
