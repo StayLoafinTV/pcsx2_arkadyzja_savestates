@@ -1,0 +1,20 @@
+**Game name:**
+
+Call of Duty - Finest Hour (USA) (v2.02)
+
+**Game ID:**
+
+SLUS-20725
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B1528506173ECF3B832F4900D71CB34E5CE27C38
+
+TRACK 01 MD5: AAB58F54C7FD3CBE34B1FBC1107064CF
+
+**Description:**
+
