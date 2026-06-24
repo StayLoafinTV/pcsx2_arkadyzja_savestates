@@ -1,0 +1,20 @@
+**Game name:**
+
+Carol Vorderman's Sudoku (USA)
+
+**Game ID:**
+
+SLUS-21495
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 545BE8844B0C485D29C8ED832A22786FC80A33FA
+
+TRACK 01 MD5: 76172BE1CDAC03C3A436822EF7FA1131
+
+**Description:**
+
