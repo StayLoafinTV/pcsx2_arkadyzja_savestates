@@ -1,0 +1,20 @@
+**Game name:**
+
+Burnout (USA)
+
+**Game ID:**
+
+SLUS-20307
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E76EA6115B40DB35C5E47CE8D9AD348C2072B212
+
+TRACK 01 MD5: 1158B005AB23DD609B58051772078408
+
+**Description:**
+
