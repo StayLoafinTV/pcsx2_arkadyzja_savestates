@@ -1,0 +1,20 @@
+**Game name:**
+
+Clumsy Shumsy (Europe)
+
+**Game ID:**
+
+SLES-54518
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 89FB567EE335AD75BD847C832B395B1E2AE7EE2C
+
+TRACK 01 MD5: 49897A13681E8A8CC0815C87F411E980
+
+**Description:**
+
