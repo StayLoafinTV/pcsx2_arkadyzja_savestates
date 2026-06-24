@@ -1,0 +1,20 @@
+**Game name:**
+
+Boogie (USA)
+
+**Game ID:**
+
+SLUS-21681
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DBA0F78C79BF34FFD9C650CBE7DC2822EB3E2412
+
+TRACK 01 MD5: E534B75CE37DE48EBB1A9BA114DC9F3A
+
+**Description:**
+
