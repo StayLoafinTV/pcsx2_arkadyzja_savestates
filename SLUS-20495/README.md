@@ -1,0 +1,20 @@
+**Game name:**
+
+Battle Engine Aquila (USA)
+
+**Game ID:**
+
+SLUS-20495
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D1CF585281A84C719148329C62EF61C94D51F803
+
+TRACK 01 MD5: 8502A057C021DE649EE338BBBFB872FC
+
+**Description:**
+
