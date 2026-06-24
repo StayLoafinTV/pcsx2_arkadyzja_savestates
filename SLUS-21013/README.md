@@ -1,0 +1,20 @@
+**Game name:**
+
+Crash 'n' Burn (USA)
+
+**Game ID:**
+
+SLUS-21013
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 26CF8EEAA925C7E7A7133ABC7CDBD9A1ED089E64
+
+TRACK 01 MD5: C4AEA35CF296B09A1B05AC7D9F0EF3C3
+
+**Description:**
+
