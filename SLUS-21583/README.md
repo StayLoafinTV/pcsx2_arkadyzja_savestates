@@ -1,0 +1,20 @@
+**Game name:**
+
+Crash of the Titans (USA)
+
+**Game ID:**
+
+SLUS-21583
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 2FE5DF4638E08207E706B301CB03CA74B6DC5B15
+
+TRACK 01 MD5: FA28881CE4A6DFCEE8332D7D1B205755
+
+**Description:**
+
