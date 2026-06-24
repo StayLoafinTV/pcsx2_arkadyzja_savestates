@@ -1,0 +1,20 @@
+**Game name:**
+
+Casino Challenge (Europe)
+
+**Game ID:**
+
+SLES-52178
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B3D9542DABE9CA7AFEC5FA0976A0E3EF86A5C20B
+
+TRACK 01 MD5: 741C8EF194EBFFA6ABE06AC62768F186
+
+**Description:**
+
