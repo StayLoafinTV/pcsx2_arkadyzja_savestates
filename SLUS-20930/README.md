@@ -1,0 +1,20 @@
+**Game name:**
+
+Choro Q (USA)
+
+**Game ID:**
+
+SLUS-20930
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 12D0E0E5019C6FD9EAAC2F92B6B8501502F220FE
+
+TRACK 01 MD5: 985A20ACEC7AF00455B58DB6A3D3573D
+
+**Description:**
+
