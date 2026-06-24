@@ -1,0 +1,20 @@
+**Game name:**
+
+Castle Shikigami 2 (USA)
+
+**Game ID:**
+
+SLUS-20962
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: EE234BBDFF7E78C8D8580031E9CB1A8DC34735BE
+
+TRACK 01 MD5: FB38AA627093A3794179AFBFDACCE113
+
+**Description:**
+
