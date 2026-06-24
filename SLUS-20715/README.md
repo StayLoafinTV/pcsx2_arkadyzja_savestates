@@ -1,0 +1,20 @@
+**Game name:**
+
+Combat Elite - WWII Paratroopers (USA)
+
+**Game ID:**
+
+SLUS-20715
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 373A6636F607A09D23B8FA437FAF69C06B3B9C7E
+
+TRACK 01 MD5: 06BA73DA5993C752ACA717D56847F31F
+
+**Description:**
+
