@@ -1,0 +1,20 @@
+**Game name:**
+
+College Hoops 2K7 (USA)
+
+**Game ID:**
+
+SLUS-21463
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A21932A7ECBA2A33E5147DEF9C6DCB32053583BF
+
+TRACK 01 MD5: 76B2B9E558C6AF119EE1B296CBDD86D1
+
+**Description:**
+
