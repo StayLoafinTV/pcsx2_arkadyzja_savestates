@@ -1,0 +1,20 @@
+**Game name:**
+
+Backyard Baseball '10 (USA)
+
+**Game ID:**
+
+SLUS-21884
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: ECA5146F173DFC042F8A8801AED2AD07E0A379A8
+
+TRACK 01 MD5: D356515287895323DD2DF6F2D4D5A44B
+
+**Description:**
+
