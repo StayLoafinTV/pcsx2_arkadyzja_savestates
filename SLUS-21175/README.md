@@ -1,0 +1,20 @@
+**Game name:**
+
+Bible Game, The (USA)
+
+**Game ID:**
+
+SLUS-21175
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D61AC734D5F2F70A167671471420093C35E38E0D
+
+TRACK 01 MD5: D98377C7C5D867968D3AC5FC58C7F853
+
+**Description:**
+
