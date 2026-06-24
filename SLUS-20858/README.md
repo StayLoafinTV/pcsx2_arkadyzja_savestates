@@ -1,0 +1,20 @@
+**Game name:**
+
+Corvette (USA)
+
+**Game ID:**
+
+SLUS-20858
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0EB9C655092C878B8696919382DB523DBE7930F2
+
+TRACK 01 MD5: 6AB9A0045D95EAEEF79111FFDF8D8BC8
+
+**Description:**
+
