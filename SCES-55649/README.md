@@ -1,0 +1,20 @@
+**Game name:**
+
+Cart Kings (India) (En,Hi)
+
+**Game ID:**
+
+SCES-55649
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 525B9871CFEDCD29ED03D3E6B4471DE84AE53081
+
+TRACK 01 MD5: 41533CF20FDD1FEB58446719C4A51C22
+
+**Description:**
+
