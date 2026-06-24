@@ -1,0 +1,20 @@
+**Game name:**
+
+Corvette Evolution GT (USA)
+
+**Game ID:**
+
+SLUS-21499
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 878FFAB7B986CB7A0B5B0895FAF5FDA7BD34C221
+
+TRACK 01 MD5: 825F7B19B00094CA61BD17668B754F66
+
+**Description:**
+
