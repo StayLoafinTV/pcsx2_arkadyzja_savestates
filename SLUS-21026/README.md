@@ -1,0 +1,20 @@
+**Game name:**
+
+Battlefield 2 - Modern Combat (USA)
+
+**Game ID:**
+
+SLUS-21026
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 33BBB241DBAD4F113FB785BDEBA13C4DEE45D20D
+
+TRACK 01 MD5: 7C2E28907800529B686DE0F4CBA286E2
+
+**Description:**
+
