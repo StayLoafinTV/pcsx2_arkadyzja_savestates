@@ -1,0 +1,20 @@
+**Game name:**
+
+Bode Miller Alpine Skiing (USA)
+
+**Game ID:**
+
+SLUS-21381
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C19DA1DEC6079E0F2A047419E344B345F42955D7
+
+TRACK 01 MD5: 398FA4E9ADD443C9409CB57A276C52A9
+
+**Description:**
+
