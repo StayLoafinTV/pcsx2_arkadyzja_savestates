@@ -1,0 +1,20 @@
+**Game name:**
+
+Bakugan - Battle Brawlers (USA)
+
+**Game ID:**
+
+SLUS-21902
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 08F5296E901A0040954AF8F6E84397C085D9A53B
+
+TRACK 01 MD5: 29E5CF458549CA5321DD0C12619A002B
+
+**Description:**
+
