@@ -1,0 +1,20 @@
+**Game name:**
+
+Cyber Troopers - Virtual-On Marz (USA)
+
+**Game ID:**
+
+SLUS-20674
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3448FCEB491620376C2529DD2AE9C9A598363A0F
+
+TRACK 01 MD5: 42D51AEB7D5DD14C39554807892233E1
+
+**Description:**
+
