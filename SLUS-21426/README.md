@@ -1,0 +1,20 @@
+**Game name:**
+
+Call of Duty 3 (USA)
+
+**Game ID:**
+
+SLUS-21426
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9A9FB5A5A712494C9536C545F5E1D9AFA6C57532
+
+TRACK 01 MD5: 723CC1164F46836D487CBF95CEEE70C4
+
+**Description:**
+
