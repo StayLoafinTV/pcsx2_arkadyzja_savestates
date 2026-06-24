@@ -1,0 +1,20 @@
+**Game name:**
+
+Bomberman Kart (Europe) (En,Fr,De)
+
+**Game ID:**
+
+SLES-51302
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D099B9D6E7DA17354CE0E8B4E22F4F96BCB1BE1B
+
+TRACK 01 MD5: E491E93FDB1A00A78E67EE24C222ECD8
+
+**Description:**
+
