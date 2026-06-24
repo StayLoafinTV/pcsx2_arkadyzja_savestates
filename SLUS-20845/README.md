@@ -1,0 +1,20 @@
+**Game name:**
+
+Cold Winter (USA)
+
+**Game ID:**
+
+SLUS-20845
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 90CBDF2407822402D1551AFE17D44C03AF1D56A1
+
+TRACK 01 MD5: B079A501C0654C547E90572055D70D89
+
+**Description:**
+
