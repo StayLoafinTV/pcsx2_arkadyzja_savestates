@@ -1,0 +1,20 @@
+**Game name:**
+
+Backyard Football 2006 (USA)
+
+**Game ID:**
+
+SLUS-20876
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6060B108CC47D3043E38818BC7C35812DDAD4822
+
+TRACK 01 MD5: 53A3E7E1035B5145610DFA7A422A13F4
+
+**Description:**
+
