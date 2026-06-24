@@ -1,0 +1,20 @@
+**Game name:**
+
+Backyard Football '10 (USA)
+
+**Game ID:**
+
+SLUS-21919
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 53E0186CD08E948E08151F2A3CAD6D31B0D8855B
+
+TRACK 01 MD5: 3299C327E67955B7EF351433F32DA9DF
+
+**Description:**
+
