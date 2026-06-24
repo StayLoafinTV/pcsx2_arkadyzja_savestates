@@ -1,0 +1,20 @@
+**Game name:**
+
+Colin McRae Rally 2005 (Europe) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLES-52636
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5BE3F708F52F1C02B475204E3323CF2EB0686E58
+
+TRACK 01 MD5: F04ABF6CD15090DB3C8EDF9773E49EED
+
+**Description:**
+
