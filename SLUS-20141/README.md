@@ -1,0 +1,20 @@
+**Game name:**
+
+CART Fury - Championship Racing (USA)
+
+**Game ID:**
+
+SLUS-20141
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A1FDEBE2313622A77DAFD41864D05D6DAB9DF49E
+
+TRACK 01 MD5: FCA0F87EBD7E85C87742404AF66AF4F1
+
+**Description:**
+
