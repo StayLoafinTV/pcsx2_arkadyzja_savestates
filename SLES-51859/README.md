@@ -1,0 +1,20 @@
+**Game name:**
+
+Billiards Xciting (Europe)
+
+**Game ID:**
+
+SLES-51859
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9B4FB49CDA9AC93956BD9E28CDAE563650B230CE
+
+TRACK 01 MD5: 285D208679FB869B3621544D2ED070B0
+
+**Description:**
+
