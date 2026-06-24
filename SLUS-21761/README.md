@@ -1,0 +1,20 @@
+**Game name:**
+
+B-Boy (USA) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLUS-21761
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DF2882330644DAEE9BA52F9D4955E8B5136B0CE8
+
+TRACK 01 MD5: D71ABC8D0177FA939FEE6454309DD3A3
+
+**Description:**
+
