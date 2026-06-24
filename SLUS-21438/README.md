@@ -1,0 +1,20 @@
+**Game name:**
+
+Cartoon Network Racing (USA)
+
+**Game ID:**
+
+SLUS-21438
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 68564894654C58151F203220A3C506A30287A23F
+
+TRACK 01 MD5: A0D9C48B96F5E58B1B9A4A6B5F4E1B85
+
+**Description:**
+
