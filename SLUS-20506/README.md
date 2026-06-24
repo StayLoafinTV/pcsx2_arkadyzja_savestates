@@ -1,0 +1,20 @@
+**Game name:**
+
+Black & Bruised (USA)
+
+**Game ID:**
+
+SLUS-20506
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0D136A464D924862A9CACEB46FE09A5F2E976CA1
+
+TRACK 01 MD5: D22AB4A4D2E73E60744932B3FDD0827C
+
+**Description:**
+
