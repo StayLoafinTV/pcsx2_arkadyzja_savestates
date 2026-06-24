@@ -1,0 +1,20 @@
+**Game name:**
+
+Bloody Roar 3 (Japan) (v2.01)
+
+**Game ID:**
+
+SLPM-62055
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1BDE9A2B0A156E64FA8FBBCD7BF8710066B2B9C6
+
+TRACK 01 MD5: E46B173394F0FEC19FDAB85BC6448082
+
+**Description:**
+
