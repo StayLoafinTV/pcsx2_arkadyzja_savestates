@@ -1,0 +1,20 @@
+**Game name:**
+
+Burnout 3 - Takedown (USA)
+
+**Game ID:**
+
+SLUS-21050
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 655EF5C63372C7510D1C61EE8137011ED681BEDA
+
+TRACK 01 MD5: 53D793704AC0A263546D05893804D0CC
+
+**Description:**
+
