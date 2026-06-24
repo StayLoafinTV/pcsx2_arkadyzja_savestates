@@ -1,0 +1,20 @@
+**Game name:**
+
+Chessmaster (USA)
+
+**Game ID:**
+
+SLUS-20637
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E9BD3883A25C51C8C322109218A50E0577F3491B
+
+TRACK 01 MD5: 91F4D05B390106F0454913A006F046FC
+
+**Description:**
+
