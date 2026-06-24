@@ -1,0 +1,20 @@
+**Game name:**
+
+Bouncer, The (USA) (En,Ja)
+
+**Game ID:**
+
+SLUS-20069
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 24557DDA8E94431A4854E8D5ECB8CC4BF84E6466
+
+TRACK 01 MD5: 8E0B7C63BD01946284D473883BD5775A
+
+**Description:**
+
