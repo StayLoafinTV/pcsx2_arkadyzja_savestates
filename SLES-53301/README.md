@@ -1,0 +1,20 @@
+**Game name:**
+
+Bomberman Hardball (Europe)
+
+**Game ID:**
+
+SLES-53301
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 61DCC9E5E0B9CB76518DB4C536A933434A1A23EB
+
+TRACK 01 MD5: 163AC23F8251B06A5E61F6AF676834E0
+
+**Description:**
+
