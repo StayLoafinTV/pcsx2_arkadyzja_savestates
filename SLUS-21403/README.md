@@ -1,0 +1,20 @@
+**Game name:**
+
+Backyard Sports - Baseball 2007 (USA)
+
+**Game ID:**
+
+SLUS-21403
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5F1C0578E3CC1F898C7CBB03B6F5FD94634A0FE7
+
+TRACK 01 MD5: D5DBEC9774D41E6B2F30CB4B3EB68022
+
+**Description:**
+
