@@ -1,0 +1,20 @@
+**Game name:**
+
+Champions - Return to Arms (USA) (v2.00)
+
+**Game ID:**
+
+SLUS-20973
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1B8AEC6BD1B364EFCD7C8244609E9C2139A93B8A
+
+TRACK 01 MD5: 886C884B18F4CCC301907D2C11D98DD1
+
+**Description:**
+
