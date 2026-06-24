@@ -1,0 +1,20 @@
+**Game name:**
+
+Backyard Football '08 (USA)
+
+**Game ID:**
+
+SLUS-21670
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: CA2CA2891F55CBFCBF70B9F0E687B37479B512BE
+
+TRACK 01 MD5: E63ABC2580D37F2822933C3F8F3249AF
+
+**Description:**
+
