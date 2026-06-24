@@ -1,0 +1,20 @@
+**Game name:**
+
+Cool Shot (Europe)
+
+**Game ID:**
+
+SLES-51785
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C3535176A0B939169B8B34C8410ED389486653C0
+
+TRACK 01 MD5: 052203CFF30E5397D1A46A3355BA85A1
+
+**Description:**
+
