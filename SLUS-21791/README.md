@@ -1,0 +1,20 @@
+**Game name:**
+
+Bratz - Girlz Really Rock (USA) (En,Fr)
+
+**Game ID:**
+
+SLUS-21791
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: ADB8B6F2D2A3F8FF4F02884A33B2C2E54B846BEF
+
+TRACK 01 MD5: 025E7320D1981332CEF67720A1D8CC9A
+
+**Description:**
+
