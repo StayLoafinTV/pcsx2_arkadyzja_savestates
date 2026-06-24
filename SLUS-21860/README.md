@@ -1,0 +1,20 @@
+**Game name:**
+
+Bigs 2, The (USA)
+
+**Game ID:**
+
+SLUS-21860
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8AEE772742FBA011BC1FD870FBE5E1D5C1B67C35
+
+TRACK 01 MD5: 8F586F0DEC1628B2D1DDAD6518CBA857
+
+**Description:**
+
