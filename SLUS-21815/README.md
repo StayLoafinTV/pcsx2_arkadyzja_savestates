@@ -1,0 +1,20 @@
+**Game name:**
+
+Ben 10 - Alien Force (USA) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLUS-21815
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B27FF8339F94F8D29F7B69EE745D1D85C5DC9FAA
+
+TRACK 01 MD5: 425D9BB617C0CEA7B7FA3273E24F0C58
+
+**Description:**
+
