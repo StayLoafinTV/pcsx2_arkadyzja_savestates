@@ -1,0 +1,20 @@
+**Game name:**
+
+Biohazard - Outbreak (Japan)
+
+**Game ID:**
+
+SLPM-65428
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: FE71B919FF46C4ED3A455159803D9BA4EC93FAE3
+
+TRACK 01 MD5: F79FBE8FD8229ECA319C5D609D350CC2
+
+**Description:**
+
