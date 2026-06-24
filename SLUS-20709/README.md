@@ -1,0 +1,20 @@
+**Game name:**
+
+Batman - Rise of Sin Tzu (USA) (En,Fr,Es)
+
+**Game ID:**
+
+SLUS-20709
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8E40557974A3441D2375D9B3B26D10F74DD96553
+
+TRACK 01 MD5: F70F6D37356D1DA6C786AF60916AE9A3
+
+**Description:**
+
