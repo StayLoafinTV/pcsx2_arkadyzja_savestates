@@ -1,0 +1,20 @@
+**Game name:**
+
+Beat Down - Fists of Vengeance (USA)
+
+**Game ID:**
+
+SLUS-21150
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D079445B1BC0301CFB99AB8641FF238F5A3F494C
+
+TRACK 01 MD5: FB0D81A32681F584C09F16C6D713984A
+
+**Description:**
+
