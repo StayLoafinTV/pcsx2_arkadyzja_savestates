@@ -1,0 +1,20 @@
+**Game name:**
+
+Burnout Dominator (USA)
+
+**Game ID:**
+
+SLUS-21596
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B2B4F1B5FCE0FAAFB6AF6721CEDAB8CDD3FBF92C
+
+TRACK 01 MD5: 0BA329D070CD6179DF80B4197DF6B17E
+
+**Description:**
+
