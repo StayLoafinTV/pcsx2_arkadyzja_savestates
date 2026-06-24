@@ -1,0 +1,20 @@
+**Game name:**
+
+Crash Tag Team Racing (USA)
+
+**Game ID:**
+
+SLUS-21191
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 21261DFF9A4AEC419E961529C6B17CFD94791888
+
+TRACK 01 MD5: EA57654961FD197F91F54FFD53893323
+
+**Description:**
+
