@@ -1,0 +1,20 @@
+**Game name:**
+
+Crash - Mind over Mutant (USA)
+
+**Game ID:**
+
+SLUS-21728
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DC3ABE5EB826B525D9C0F3DB1966B3E60C4B5BC0
+
+TRACK 01 MD5: FA0603BF49B1766E164749FADDFA3031
+
+**Description:**
+
