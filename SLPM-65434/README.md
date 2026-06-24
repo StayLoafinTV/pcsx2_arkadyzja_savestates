@@ -1,0 +1,20 @@
+**Game name:**
+
+Battle Gear 3 (Japan, Asia)
+
+**Game ID:**
+
+SLPM-65434
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6DBED1F7BBD344C8BC1BC0310769605709325D60
+
+TRACK 01 MD5: B1D314B63C67024C160D53BEB8C5F586
+
+**Description:**
+
