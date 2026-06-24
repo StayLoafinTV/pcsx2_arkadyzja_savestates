@@ -1,0 +1,20 @@
+**Game name:**
+
+Blitz - The League (USA)
+
+**Game ID:**
+
+SLUS-21128
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: BB15AEE81661154509825346112502C568BF9B1A
+
+TRACK 01 MD5: 0FF065A0BC1BD6ED84CB3CDB015F6A35
+
+**Description:**
+
