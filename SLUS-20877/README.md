@@ -1,0 +1,20 @@
+**Game name:**
+
+Crimson Sea 2 (USA)
+
+**Game ID:**
+
+SLUS-20877
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 2BD71FB7D139B63A565F4BE37DEE071230324355
+
+TRACK 01 MD5: 8DD94CB333F53CB3EBBE346F8BDBBA7C
+
+**Description:**
+
