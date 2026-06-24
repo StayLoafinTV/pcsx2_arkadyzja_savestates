@@ -1,0 +1,20 @@
+**Game name:**
+
+Barbarian (USA)
+
+**Game ID:**
+
+SLUS-20136
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8360D0B410BC4DB211AD2570BD9C34D42E29AF20
+
+TRACK 01 MD5: 913FA9CF5280E49482B7C5A7B88379FF
+
+**Description:**
+
