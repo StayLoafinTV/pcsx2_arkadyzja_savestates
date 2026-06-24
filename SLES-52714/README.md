@@ -1,0 +1,20 @@
+**Game name:**
+
+Board Games Gallery (Europe)
+
+**Game ID:**
+
+SLES-52714
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: BA7EAA22C5A4A004ED5BE76BA12EF0B534BE06D7
+
+TRACK 01 MD5: E3F9D5FB55FD82148F65DB151CD79BBE
+
+**Description:**
+
