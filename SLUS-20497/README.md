@@ -1,0 +1,20 @@
+**Game name:**
+
+Burnout 2 - Point of Impact (USA)
+
+**Game ID:**
+
+SLUS-20497
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D5D61EBC7B6CC8005EB8EA4C3DA1FDE254AB5ECC
+
+TRACK 01 MD5: 357E5829D8055115C35AF321C254CCFC
+
+**Description:**
+
