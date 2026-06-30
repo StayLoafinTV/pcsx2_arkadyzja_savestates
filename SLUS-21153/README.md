@@ -1,0 +1,20 @@
+**Game name:**
+
+Dynasty Warriors 5 (USA)
+
+**Game ID:**
+
+SLUS-21153
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 34A03DC1CDEFF3ED6D1C6EA7911674A214CD5107
+
+TRACK 01 MD5: 672AAFC07FCD57700129B366EC220452
+
+**Description:**
+
