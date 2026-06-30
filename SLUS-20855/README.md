@@ -1,0 +1,20 @@
+**Game name:**
+
+Destruction Derby Arenas (USA)
+
+**Game ID:**
+
+SLUS-20855
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4A0F542FC2E8C622B04CBF3256ADCF37CE5E064F
+
+TRACK 01 MD5: 23D969CB4D00FBEECC36E25411EF2B51
+
+**Description:**
+
