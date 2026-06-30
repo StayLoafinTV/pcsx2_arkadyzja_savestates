@@ -1,0 +1,20 @@
+**Game name:**
+
+Disney-Pixar Cars (USA)
+
+**Game ID:**
+
+SLUS-21151
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 86AC3936B77A2EF8E46541F85D65BC03C6E6FF78
+
+TRACK 01 MD5: 6B9CB504909B0112BC8EB2A3FBA5B134
+
+**Description:**
+
