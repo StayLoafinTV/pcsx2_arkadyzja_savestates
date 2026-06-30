@@ -1,0 +1,20 @@
+**Game name:**
+
+Duel Masters (USA)
+
+**Game ID:**
+
+SLUS-20924
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8F01DFE455D02DD84CBF71F922F076B63E854CD0
+
+TRACK 01 MD5: 98485E9C1A9F3605B24863930790F4E0
+
+**Description:**
+
