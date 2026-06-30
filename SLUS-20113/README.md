@@ -1,0 +1,20 @@
+**Game name:**
+
+Driving Emotion Type-S (USA) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLUS-20113
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 2B7080F064CCEEDAED46FABF9299BF8CD85EAF3B
+
+TRACK 01 MD5: 9197FB7B467F4AAA63220D6E94257EBF
+
+**Description:**
+
