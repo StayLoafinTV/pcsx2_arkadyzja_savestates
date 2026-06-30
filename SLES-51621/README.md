@@ -1,0 +1,20 @@
+**Game name:**
+
+Dirt Track Devils (Europe)
+
+**Game ID:**
+
+SLES-51621
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DE050A18753715E6EC0D81EB0299FAA3B09373F2
+
+TRACK 01 MD5: AA9F92061E4B1CD4FB8B70CB5907C125
+
+**Description:**
+
