@@ -1,0 +1,20 @@
+**Game name:**
+
+Dynasty Warriors 5 - Empires (USA)
+
+**Game ID:**
+
+SLUS-21398
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E3A6059AFED89B797137F80C3738510C6AE9E1AE
+
+TRACK 01 MD5: 5C9911D7916A339A0791B4CDF41DD1C4
+
+**Description:**
+
