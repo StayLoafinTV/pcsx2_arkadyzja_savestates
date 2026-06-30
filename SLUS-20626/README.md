@@ -1,0 +1,20 @@
+**Game name:**
+
+Deer Hunter (USA)
+
+**Game ID:**
+
+SLUS-20626
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 36DFBE2D9E8EA8AAE76395316F0A98386314146D
+
+TRACK 01 MD5: F71EF9DB14351AAABA7387CF6403EC41
+
+**Description:**
+
