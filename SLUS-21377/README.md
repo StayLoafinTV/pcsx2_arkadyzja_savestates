@@ -1,0 +1,20 @@
+**Game name:**
+
+Dance Dance Revolution SuperNova (USA)
+
+**Game ID:**
+
+SLUS-21377
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 912EBC2F8DFEB16AC1ACB533C5ECF3F88220E20C
+
+TRACK 01 MD5: 9E986A48971E438EB1FBE6962BC7BE03
+
+**Description:**
+
