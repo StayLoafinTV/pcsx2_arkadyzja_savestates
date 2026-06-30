@@ -1,0 +1,20 @@
+**Game name:**
+
+Dynasty Warriors 4 (USA)
+
+**Game ID:**
+
+SLUS-20653
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 313A7190498863876A5C7D583AF1ED616164EDA4
+
+TRACK 01 MD5: 100555C0F9EF2C8FD909EE7EF8EE37D1
+
+**Description:**
+
