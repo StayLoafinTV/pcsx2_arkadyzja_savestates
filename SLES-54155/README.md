@@ -1,0 +1,20 @@
+**Game name:**
+
+Drag Racer USA (Europe)
+
+**Game ID:**
+
+SLES-54155
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: ADF37C7C4AF6D56EB151839D4E6C2AD2A5809373
+
+TRACK 01 MD5: 51462BAEFF3145F7DBC98E130C401A7B
+
+**Description:**
+
