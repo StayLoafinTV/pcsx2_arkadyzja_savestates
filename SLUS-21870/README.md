@@ -1,0 +1,20 @@
+**Game name:**
+
+DreamWorks Monsters vs. Aliens (USA)
+
+**Game ID:**
+
+SLUS-21870
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 39D50DB97ADF27EF99C0AE23567F246B23BA8417
+
+TRACK 01 MD5: E44BDBC8A2F9DD330E207FC072DAB43D
+
+**Description:**
+
