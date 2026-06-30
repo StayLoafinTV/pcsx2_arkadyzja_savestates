@@ -1,0 +1,20 @@
+**Game name:**
+
+Dragon Ball Z - Budokai 2 (USA)
+
+**Game ID:**
+
+SLUS-20779
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E50345B10B1B19718CC780427245BD52200124D8
+
+TRACK 01 MD5: 39F76186ACB6679373767751DDDA9FAD
+
+**Description:**
+
