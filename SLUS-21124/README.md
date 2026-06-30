@@ -1,0 +1,20 @@
+**Game name:**
+
+Delta Force - Black Hawk Down (USA)
+
+**Game ID:**
+
+SLUS-21124
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B2F8232EB671B2C8E063CA6FDF5C32606A485673
+
+TRACK 01 MD5: 544C1009EF3F14B94E5FEE66F0BF912A
+
+**Description:**
+
