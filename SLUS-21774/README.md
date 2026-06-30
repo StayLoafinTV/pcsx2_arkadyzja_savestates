@@ -1,0 +1,20 @@
+**Game name:**
+
+Dynasty Warriors 6 (USA)
+
+**Game ID:**
+
+SLUS-21774
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1D9B9AA374228378831C460F3EAF44D1A216378E
+
+TRACK 01 MD5: E01CF15AF84C3A1EFB42A06A64AD6436
+
+**Description:**
+
