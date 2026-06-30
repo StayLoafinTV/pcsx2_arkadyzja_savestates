@@ -1,0 +1,20 @@
+**Game name:**
+
+Drome Racers (USA)
+
+**Game ID:**
+
+SLUS-20577
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9099BE833071BB2020211D40F1380AD8A7615D1B
+
+TRACK 01 MD5: 0DD2DCA80532C73A529C81E7C6FCF345
+
+**Description:**
+
