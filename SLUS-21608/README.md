@@ -1,0 +1,20 @@
+**Game name:**
+
+Dance Dance Revolution SuperNova 2 (USA)
+
+**Game ID:**
+
+SLUS-21608
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: AF10BEA373115F30B447D29B73A205AB2C722379
+
+TRACK 01 MD5: 3B4198D9411FB1141FD7F58071E0F12A
+
+**Description:**
+
