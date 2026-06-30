@@ -1,0 +1,20 @@
+**Game name:**
+
+Dancing with the Stars (USA)
+
+**Game ID:**
+
+SLUS-21676
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 998D70F91311B84D874F6949D0249DB27BFC70D3
+
+TRACK 01 MD5: 63056C91CE4DC15BC54BCC119CC197D9
+
+**Description:**
+
