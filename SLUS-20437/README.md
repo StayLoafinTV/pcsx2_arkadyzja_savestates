@@ -1,0 +1,20 @@
+**Game name:**
+
+DDRMAX - Dance Dance Revolution (USA)
+
+**Game ID:**
+
+SLUS-20437
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 33449FD6E9A96D05768005C64B5BAB5D2F6833D5
+
+TRACK 01 MD5: 8F6195E6313A892830C636894CFF2442
+
+**Description:**
+
