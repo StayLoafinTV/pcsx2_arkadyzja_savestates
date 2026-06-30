@@ -1,0 +1,20 @@
+**Game name:**
+
+Dance Dance Revolution Extreme (USA)
+
+**Game ID:**
+
+SLUS-20916
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A56FD050C55A265AF1A2270F17FA567F9B2EDD9B
+
+TRACK 01 MD5: 7A40CBA7B43C50041CBF9B07F3169965
+
+**Description:**
+
