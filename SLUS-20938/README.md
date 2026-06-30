@@ -1,0 +1,20 @@
+**Game name:**
+
+Dynasty Warriors 4 - Empires (USA)
+
+**Game ID:**
+
+SLUS-20938
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B424AA8680FB4E643B445599B796AC52B8ED3CD5
+
+TRACK 01 MD5: 481636ECCEF3BC09B4A46619B599D1C9
+
+**Description:**
+
