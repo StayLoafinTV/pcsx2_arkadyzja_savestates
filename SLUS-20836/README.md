@@ -1,0 +1,20 @@
+**Game name:**
+
+Digimon World 4 (USA)
+
+**Game ID:**
+
+SLUS-20836
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: CAE3304BB4F6861DA280815A2CEAF86240B0A02C
+
+TRACK 01 MD5: 3185F04230B1DABD853DB750E4B51108
+
+**Description:**
+
