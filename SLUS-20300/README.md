@@ -1,0 +1,20 @@
+**Game name:**
+
+Dark Summit (USA)
+
+**Game ID:**
+
+SLUS-20300
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6D95098E6BA2818F70E7E710ECC5C52E08513CCA
+
+TRACK 01 MD5: A90C77F93864F13ECCC596EA600689E6
+
+**Description:**
+
