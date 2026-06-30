@@ -1,0 +1,20 @@
+**Game name:**
+
+DreamWorks Shrek the Third (USA)
+
+**Game ID:**
+
+SLUS-21454
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 76923EC3FC86A1B4C2091BC3BAF2BFE80460B808
+
+TRACK 01 MD5: 969BFB1EB912381B580821745811961F
+
+**Description:**
+
