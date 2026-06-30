@@ -1,0 +1,20 @@
+**Game name:**
+
+Dakar 2 (Europe) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLES-50879
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0BFA210E7A1F1BB4F157B1E94C514F0AA5907BE4
+
+TRACK 01 MD5: E3FE7080767EA294C2D03FE059AE2931
+
+**Description:**
+
