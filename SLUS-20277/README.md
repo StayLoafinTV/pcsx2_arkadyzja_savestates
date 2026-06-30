@@ -1,0 +1,20 @@
+**Game name:**
+
+Dynasty Warriors 3 (USA)
+
+**Game ID:**
+
+SLUS-20277
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A3ED460E8CBEBE75C3197D2947286B1C10B31BD0
+
+TRACK 01 MD5: 7867EBADCC4901D9E9E901CAE4431AC3
+
+**Description:**
+
