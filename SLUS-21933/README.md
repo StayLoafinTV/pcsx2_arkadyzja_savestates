@@ -1,0 +1,20 @@
+**Game name:**
+
+Despicable Me - The Game (USA)
+
+**Game ID:**
+
+SLUS-21933
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0623A3E3E574EC7C04076E23389C4E98587D523F
+
+TRACK 01 MD5: CCF8192E4609B7D25C2AA0ABFCF06F0F
+
+**Description:**
+
