@@ -1,0 +1,20 @@
+**Game name:**
+
+DT Racer (USA)
+
+**Game ID:**
+
+SLUS-21095
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8B4ACBDC2AF756CFC493FC8F7DF90F57DBEACBC7
+
+TRACK 01 MD5: 6ECE9CC2F090E275A7342A45F8ACFF0F
+
+**Description:**
+
