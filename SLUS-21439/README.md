@@ -1,0 +1,20 @@
+**Game name:**
+
+Destroy All Humans! 2 (USA)
+
+**Game ID:**
+
+SLUS-21439
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5C53288642E3C99AD0DAE3ECC7C3A55A525E7E17
+
+TRACK 01 MD5: E6AD962A09349CE6B92C7B1D9BC9F5E3
+
+**Description:**
+
