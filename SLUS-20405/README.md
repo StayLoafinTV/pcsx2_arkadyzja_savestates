@@ -1,0 +1,20 @@
+**Game name:**
+
+Downforce (USA)
+
+**Game ID:**
+
+SLUS-20405
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 18B27FAEE23A39260CA0759165574EFA55A60A3D
+
+TRACK 01 MD5: 75DE00C8E341E654C2CE45798625CA6A
+
+**Description:**
+
