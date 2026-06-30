@@ -1,0 +1,20 @@
+**Game name:**
+
+Disney-Pixar WALL-E (USA) (En,Fr,Es)
+
+**Game ID:**
+
+SLUS-21736
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 23A3DEB9F5BA9B5D6C488AD7724CABA873D1AE07
+
+TRACK 01 MD5: A2F682A65B60D4FF9DD447D2C7CCE37E
+
+**Description:**
+
