@@ -1,0 +1,20 @@
+**Game name:**
+
+Defender (USA)
+
+**Game ID:**
+
+SLUS-20191
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: EDDD880078655B6BD0A76533C301BE0DD5E1510B
+
+TRACK 01 MD5: 5FA8915292DF07E7CDEA676E598F39CA
+
+**Description:**
+
