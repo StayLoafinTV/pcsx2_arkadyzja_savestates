@@ -1,0 +1,20 @@
+**Game name:**
+
+DreamWorks Bee Movie Game (USA)
+
+**Game ID:**
+
+SLUS-21622
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DA044C8E424F25D6263477EA87BD16970F204D2F
+
+TRACK 01 MD5: 806942B13C623E6A8F3FB74759806E68
+
+**Description:**
+
