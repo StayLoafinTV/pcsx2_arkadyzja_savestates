@@ -1,0 +1,20 @@
+**Game name:**
+
+Detonator (Europe)
+
+**Game ID:**
+
+SLES-52041
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F8183E63B33F00BFB2C64C307F95AC32637C7C79
+
+TRACK 01 MD5: EEDC9D88375B1158F2965C4031BBCB28
+
+**Description:**
+
