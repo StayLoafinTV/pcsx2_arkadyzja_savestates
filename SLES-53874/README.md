@@ -1,0 +1,20 @@
+**Game name:**
+
+Dragon Blaze (Europe)
+
+**Game ID:**
+
+SLES-53874
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3F84B699788E8CD0029D1953515F3F708AD44079
+
+TRACK 01 MD5: 51550D9F64BF07FCA8521A86FB6B6AE2
+
+**Description:**
+
