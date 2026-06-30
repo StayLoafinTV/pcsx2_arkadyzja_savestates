@@ -1,0 +1,20 @@
+**Game name:**
+
+DT Carnage (USA)
+
+**Game ID:**
+
+SLUS-21793
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: ACE76AD0293212476F18BA2FE3E3D5B1DB057861
+
+TRACK 01 MD5: B0D2ABC097267FC7FB3C555CCAEFF28C
+
+**Description:**
+
