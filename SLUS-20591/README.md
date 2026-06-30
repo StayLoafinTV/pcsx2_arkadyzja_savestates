@@ -1,0 +1,20 @@
+**Game name:**
+
+Dragon Ball Z - Budokai (USA)
+
+**Game ID:**
+
+SLUS-20591
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DBC170289A788B3A264A46BD4A2CBA6E2D89F83C
+
+TRACK 01 MD5: DAFCE356E2FD4FB94B4B41A0F2839A0D
+
+**Description:**
+
