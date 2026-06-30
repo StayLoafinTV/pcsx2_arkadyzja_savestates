@@ -1,0 +1,20 @@
+**Game name:**
+
+Disney's Chicken Little (USA)
+
+**Game ID:**
+
+SLUS-21088
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E47B4E898010C55127290C203E37F2099F27CDA3
+
+TRACK 01 MD5: 5B7BCF946C89678C47BC68A714F54EA6
+
+**Description:**
+
