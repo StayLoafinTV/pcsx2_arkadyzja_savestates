@@ -1,0 +1,20 @@
+**Game name:**
+
+Disney Golf (USA)
+
+**Game ID:**
+
+SLUS-20532
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: FBC97F7FD12E668B613F2DC4ED2CBD7D39F23F94
+
+TRACK 01 MD5: F01D019E5ED0214D15819F67B6A0CA72
+
+**Description:**
+
