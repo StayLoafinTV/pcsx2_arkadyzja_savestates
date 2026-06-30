@@ -1,0 +1,20 @@
+**Game name:**
+
+Dynasty Tactics (USA)
+
+**Game ID:**
+
+SLUS-20468
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8C5C52392CD40D71F996F9717D0E2B5782CBD067
+
+TRACK 01 MD5: 1405ED8FF62B590D62B864FD5154A86F
+
+**Description:**
+
