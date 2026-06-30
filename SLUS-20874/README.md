@@ -1,0 +1,20 @@
+**Game name:**
+
+Dragon Ball Z - Sagas (USA)
+
+**Game ID:**
+
+SLUS-20874
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 2DAFDB486A01B853E83C88FA9A665DC7A932478D
+
+TRACK 01 MD5: 4B0FA65CF42D6C19509DEAB1D9792513
+
+**Description:**
+
