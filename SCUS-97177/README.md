@@ -1,0 +1,20 @@
+**Game name:**
+
+Downhill Domination (USA)
+
+**Game ID:**
+
+SCUS-97177
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C4DA2CF044F5B88619E3F5C265BFA6B3F5747973
+
+TRACK 01 MD5: 3654A6F4438C899BE4A1F5236CFDCD74
+
+**Description:**
+
