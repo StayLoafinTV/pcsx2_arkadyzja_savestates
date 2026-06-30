@@ -1,0 +1,20 @@
+**Game name:**
+
+Dance Dance Revolution X (USA)
+
+**Game ID:**
+
+SLUS-21767
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: CF82AD1B4678814195718FF8C27C12BF350903BF
+
+TRACK 01 MD5: FAEE77D6FDCA15B6EF6D02176A12CE26
+
+**Description:**
+
