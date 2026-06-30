@@ -1,0 +1,20 @@
+**Game name:**
+
+Dynasty Warriors - Gundam 2 (USA)
+
+**Game ID:**
+
+SLUS-21873
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 31C9593D47C8B49FA7C28FBE084C15C9EFA5FF16
+
+TRACK 01 MD5: 742229373C8B52E81270C2192959C14B
+
+**Description:**
+
