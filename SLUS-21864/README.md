@@ -1,0 +1,20 @@
+**Game name:**
+
+Disney-Pixar Up (USA) (En,Fr)
+
+**Game ID:**
+
+SLUS-21864
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 095CA0C6C75AD0AEC171BD80233E8F8AF7E3FCA1
+
+TRACK 01 MD5: 410B4379DEC8DE25DA117A13FF503B66
+
+**Description:**
+
