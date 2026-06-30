@@ -1,0 +1,20 @@
+**Game name:**
+
+Dot Hack Fraegment (Japan)
+
+**Game ID:**
+
+SLPS-25527
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 542FF96467BC0737D206721C74870DC8300AAE99
+
+TRACK 01 MD5: 94C82040BF4BB99500EB557A3C0FBB15
+
+**Description:**
+
