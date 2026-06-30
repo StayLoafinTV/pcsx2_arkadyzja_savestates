@@ -1,0 +1,20 @@
+**Game name:**
+
+DoDonPachi Dai-Ou-Jou (Japan)
+
+**Game ID:**
+
+SLPS-25233
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 02D86E4871D27E8002DFB6E7142B699BFB33FA83
+
+TRACK 01 MD5: 3B8AD6F4B407A784E2B4FF89EFC10827
+
+**Description:**
+
