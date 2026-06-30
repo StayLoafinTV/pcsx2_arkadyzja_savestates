@@ -1,0 +1,20 @@
+**Game name:**
+
+DreamWorks Kung Fu Panda (USA)
+
+**Game ID:**
+
+SLUS-21757
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A3B02AC597BC7C8472C0B239DB46790F53690DC8
+
+TRACK 01 MD5: FF18E14B5C32D7C76B627138892B0FBC
+
+**Description:**
+
