@@ -1,0 +1,20 @@
+**Game name:**
+
+Dance Dance Revolution X2 (USA) (En,Fr,Es)
+
+**Game ID:**
+
+SLUS-21917
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F8DD21A2A11373F5591EE431FE413DCB82E1B3C9
+
+TRACK 01 MD5: C0C83B2BFB0B3EC4DD69704166A8B524
+
+**Description:**
+
