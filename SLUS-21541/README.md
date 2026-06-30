@@ -1,0 +1,20 @@
+**Game name:**
+
+Disney-Pixar Ratatouille (USA)
+
+**Game ID:**
+
+SLUS-21541
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 28C4493468B831F0F9A450824E6141D582B487B7
+
+TRACK 01 MD5: 34BD440D44658F13F70549AA51B639B9
+
+**Description:**
+
