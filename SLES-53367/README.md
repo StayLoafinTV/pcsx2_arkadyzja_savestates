@@ -1,0 +1,20 @@
+**Game name:**
+
+Dodgeball (Europe)
+
+**Game ID:**
+
+SLES-53367
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D36F37E3AB74B8FBC2DCA8C774699CAD62365493
+
+TRACK 01 MD5: 303901D91064E1590DF19B8B0346CECA
+
+**Description:**
+
