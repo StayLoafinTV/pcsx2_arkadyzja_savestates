@@ -1,0 +1,20 @@
+**Game name:**
+
+Dragon Sisters (Europe)
+
+**Game ID:**
+
+SLES-54460
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B5BE47CF80B3BA6CD35FDADCBB7626F224D593D6
+
+TRACK 01 MD5: 697971AFCF8BF75B9C1B02829BDCC755
+
+**Description:**
+
