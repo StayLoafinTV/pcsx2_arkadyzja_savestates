@@ -1,0 +1,20 @@
+**Game name:**
+
+Deadly Strike (Europe)
+
+**Game ID:**
+
+SLES-52955
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 48252636AD89B49A0C7B4DD28679C8ABF7442772
+
+TRACK 01 MD5: 7652178050BDDF578A81A989E4A57AD4
+
+**Description:**
+
