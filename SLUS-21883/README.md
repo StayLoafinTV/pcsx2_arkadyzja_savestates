@@ -1,0 +1,20 @@
+**Game name:**
+
+Disney-Pixar Cars - Race-O-Rama (USA)
+
+**Game ID:**
+
+SLUS-21883
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B09AE49C51581A115945D7618CA808BF54D9C142
+
+TRACK 01 MD5: 5E6626629DAB67455F1A1C7739856726
+
+**Description:**
+
