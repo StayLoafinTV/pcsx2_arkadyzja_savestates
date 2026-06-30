@@ -1,0 +1,20 @@
+**Game name:**
+
+Dynasty Tactics 2 (USA)
+
+**Game ID:**
+
+SLUS-20761
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8FDC8A44C7520E6ABC6806CCCB28B4CBBD1F7C9F
+
+TRACK 01 MD5: AF210846B0067CB480EEE80E3999C478
+
+**Description:**
+
