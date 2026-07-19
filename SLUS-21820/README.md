@@ -1,6 +1,6 @@
 **Game name:**
 
-Legend of Spyro, The - Dawn of the Dragon (USA) (En,Fr,De,Es,It,Nl)
+The Legend of Spyro - Dawn of the Dragon (USA) 
 
 **Game ID:**
 

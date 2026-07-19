@@ -1,6 +1,6 @@
 **Game name:**
 
-Carol Vorderman's Sudoku (USA)
+Hot Shots Tennis (USA)
 
 **Game ID:**
 
@@ -12,9 +12,9 @@ CHD
 
 **Hash:**
 
-CHD DATA SHA1: 545BE8844B0C485D29C8ED832A22786FC80A33FA
+CHD DATA SHA1: a35ed8c049d91e126a11d78b21ad48e8789b8038
 
-TRACK 01 MD5: 76172BE1CDAC03C3A436822EF7FA1131
+ISO MD5: f73e43897edc6bd0b92ef6f3dccdebc9
 
 **Description:**
 

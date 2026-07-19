@@ -1,6 +1,6 @@
 **Game name:**
 
-Crash - Mind over Mutant (USA)
+Crash - Mind Over Mutant (USA)
 
 **Game ID:**
 
@@ -12,9 +12,8 @@ CHD
 
 **Hash:**
 
-CHD DATA SHA1: DC3ABE5EB826B525D9C0F3DB1966B3E60C4B5BC0
-
-TRACK 01 MD5: FA0603BF49B1766E164749FADDFA3031
+CHD DATA SHA1: dc3abe5eb826b525d9c0f3db1966b3e60c4b5bc0
+ISO MD5: fa0603bf49b1766e164749faddfa3031
 
 **Description:**
 

@@ -1,6 +1,6 @@
 **Game name:**
 
-Battle of Yuu Yuu Hakusho, The - Shitou! Ankoku Bujutsukai - 120% (Full Power) (Japan)
+The Battle of Yuu Yuu Hakusho: Shitou! Ankoku Bujutsukai - 120% (Full Power) (Japan)
 
 **Game ID:**
 
@@ -12,9 +12,9 @@ CHD
 
 **Hash:**
 
-CHD DATA SHA1: 4E6ACD4CC344EFD93AED2D9B87BEC487138907DB
+CHD DATA SHA1: aee68f1962e8189c5d6cfe739fe669750c66cece
 
-TRACK 01 MD5: C6A38CB116CFAF9165778CF94319D620
+ISO MD5: c6a38cb116cfaf9165778cf94319d620
 
 **Description:**
 

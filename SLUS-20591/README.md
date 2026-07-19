@@ -1,6 +1,6 @@
 **Game name:**
 
-Dragon Ball Z - Budokai (USA)
+Dragon Ball Z: Budokai (USA)
 
 **Game ID:**
 
@@ -12,9 +12,9 @@ CHD
 
 **Hash:**
 
-CHD DATA SHA1: DBC170289A788B3A264A46BD4A2CBA6E2D89F83C
+CHD DATA SHA1: dbc170289a788b3a264a46bd4a2cba6e2d89f83c9
 
-TRACK 01 MD5: DAFCE356E2FD4FB94B4B41A0F2839A0D
+ISO MD5: MD5: dafce356e2fd4fb94b4b41a0f2839a0d
 
 **Description:**
 
